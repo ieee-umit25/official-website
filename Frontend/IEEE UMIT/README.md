@@ -13,9 +13,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # how to run a project 
-step 1 : clone the project (git clone https://github.com/ieee-umit25/official-website.git)
-step 2 : change directory to official-website (cd official-website)
-step 3 : DO ur required changes
-step 4 : add the changes (git add .)
-step 5 : commit changes (git commit -m "Your commit message")
-step 6 : push the code (git push origin main)
+- step 1 : clone the project (git clone https://github.com/ieee-umit25/official-website.git)
+- step 2 : change directory to official-website (cd official-website)
+- step 3 : DO ur required changes
+- step 4 : add the changes (git add .)
+- step 5 : commit changes (git commit -m "Your commit message")
+- step 6 : push the code (git push origin main)
