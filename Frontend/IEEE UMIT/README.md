@@ -19,3 +19,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - step 4 : add the changes (git add .)
 - step 5 : commit changes (git commit -m "Your commit message")
 - step 6 : push the code (git push origin main)
+
+Whenever you want to work on changes made by someone else and already pushed to GitHub, first run `git pull` to get the latest changes. Only after pulling the latest code should you start making your own changes.
