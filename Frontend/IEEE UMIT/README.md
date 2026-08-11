@@ -13,4 +13,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # how to run a project 
-clone the project 
+step 1 : clone the project (git clone https://github.com/ieee-umit25/official-website.git)
+step 2 : change directory to official-website (cd official-website)
+step 3 : DO ur required changes
+step 4 : (git add .)
+step 5 : (git commit -m "Your commit message")
+step 6 : 
