@@ -7,140 +7,142 @@ const scImg =
 // ================= (SC) =================
 const members = [
   {
-    name: "Shalvi Yeole",
+    name: "Sabrin Rowther",
     role: "Chairperson",
-    email: "yeoleshalvi05@gmail.com",
-    linkedin: "https://www.linkedin.com/in/shalvi-yeole-15b74b312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    // github: "https://github.com/shalvi",
-    img : "https://res.cloudinary.com/dunstvosl/image/upload/c_fill,w_800,h_700,g_faces/v1757869973/IMG-20250914-WA0011_1_pttydi.jpg"
+    email: "sabrin.umit@gmail.com",
+    linkedin: "https://www.linkedin.com/in/sabrin-rowther-550496331",
+    github: "https://github.com/sabrinshowkath",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790516546/IMG-20260919-WA0021.jpg"
   },
   {
-    name: "Srushti Desai",
+    name: "Riya Sewatkar",
     role: "Co-Chairperson",
-    email: "srushtiii2005@gmail.com",
-    linkedin: "https://www.linkedin.com/in/srushti-desai-96417b2ab",
-    img:"https://res.cloudinary.com/dunstvosl/image/upload/c_fill,w_800,h_700,g_faces/v1757870293/IMG-20250914-WA0015_1_f2hywf.jpg"
-
+    email: "riya.umit.30@gmail.com",
+    linkedin: "https://www.linkedin.com/in/riya-sewatkar-7a74b332a/",
+    github: "https://github.com/riya1730",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790516667/IMG-20260919-WA0023.jpg"
   },
   {
-    name: "Vaishnavi Balodhi",
+    name: "Samruddhi Badjate",
     role: "Secretary",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1760027248/WhatsApp_Image_2025-10-09_at_9.49.24_PM_e4lvwk.jpg",
-    email: "vbalodhi3155@gmail.com",
-    linkedin:"https://www.linkedin.com/in/vaishnavi-balodhi-265828279/",
-    // github: "https://github.com/vaishnavi",
+    email: "samruddhiieeeumit@gmail.com",
+    linkedin: "https://www.linkedin.com/in/samruddhi-badjate",
+    github: "https://github.com/SamruddhiBadjate",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790516480/IMG-20260919-WA0030.jpg"
   },
   {
-    name: "Gayatri Naik",
+    name: "Tripti Sinha",
     role: "Treasurer",
-    email: "gmnaik7474@gmail.com",
-    linkedin: "https://www.linkedin.com/in/gayatri-naik-7b1494208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    img:"https://res.cloudinary.com/dunstvosl/image/upload/c_fill,w_800,h_700,g_faces/v1757869956/IMG-20250914-WA0013_1_egk1eo.jpg"
+    email: "triptisinha513@gmail.com",
+    linkedin: "https://www.linkedin.com/in/tripti-sinha-50a21a339",
+    img: "https://res.cloudinary.com/wg2rax47/image/upload/c_auto,g_north_west,h_1427,w_1098/IMG-20260919-WA0020.jpg"
   },
   {
-    name: "Rakshanda Arwari",
-    role: "Technology & Publicity Director",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1759572653/IMG_20250830_004257_297_gsayfd.webp",
-    email: "rakshanda@example.com",
-    linkedin:"https://www.linkedin.com/in/rakshanda-arwari-712366301"
-    // github: "https://github.com/rakshanda",
-  },
-  {
-    name: "Humaira Samani",
-    role: "Technology & Publicity Director",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1759485520/Screenshot_2025-10-03_152824_s5hgv6.png",
-    email: "humairaworkc@gmail.com",
-    linkedin: "https://www.linkedin.com/in/samani-humaira/",
-  },
-  {
-    name: "Prachiti Shivalkar",
-    role: "Event & Planning",
-    email: "prachiti.s0834@gmail.com",
-    linkedin:"https://www.linkedin.com/in/prachiti-shivalkar-9683b032a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    img:"https://res.cloudinary.com/dunstvosl/image/upload/c_fill,w_800,h_700,g_faces/v1757869987/IMG-20250914-WA0012_1_mbmelz.jpg"
-  },
-  {
-    name: "Hibah Khatkhatay",
-    role: "Event & Planning",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/c_fill,w_800,h_700,g_faces/v1757871846/IMG-20250914-WA0018_1_s9ao9j.jpg",
-    email: "hibahkhatkhatay@gmail.com",
-    linkedin: "https://www.linkedin.com/in/hibah-khatkhatay-8375b62a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    name: "Sharvari Dhekre",
-    role: "Art & Cultural Director",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1759484874/WhatsApp_Image_2025-10-02_at_10.16.31_PM_cdszdi.jpg",
-    linkedin:"https://www.linkedin.com/in/sharvari-dhekre",
-    email: "sharvaridhekre05@gmail.com",
-  },
-  {
-    name: "Zineera Kazi",
-    role: "Social Media Director",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1758983457/ra_hcmyjl.jpg",
-    email: "kazizineera@gmail.com",
-    linkedin: "https://www.linkedin.com/in/zineera-kazi-07351232a?trk=contact-info",
-  },
-  {
-    name: "Adiba Shaikh",
-    role: "Sponsorship & Marketing Director",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1758983478/aa_kqjlh5.jpg",
-    email: "shaikhadiba0802@gmail.com",
-    linkedin:"https://www.linkedin.com/in/adiba-shaikh-569334378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    // github: "https://github.com/adiba",
-  },
-  {
-    name: "Bhumika Salvi",
-    role: "Sponsorship & Marketing Director",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1758983298/WhatsApp_Image_2025-09-27_at_7.45.12_PM_o9gugx.jpg",
-    email: "bhumikasalvi29@gmail.com",
-    linkedin: "https://www.linkedin.com/company/umit-ieee",
-  },
-  {
-    name: "Parnika Devare",
-    role: "Editorial & Community Director",
-    img: "https://res.cloudinary.com/dunstvosl/image/upload/v1758983468/ar_qlyubi.jpg",
-    email: "parnikadevare444@gmail.com",
-    linkedin:"https://www.linkedin.com/in/parnika-devare-2631012bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-  },
-  {
-    name: "Mugdha Bhavsar",
+    name: "Riya Koul",
     role: "External Affairs Director",
-    email: "mugdhabhavsar23@gmail.com",
-    linkedin: "https://www.linkedin.com/in/mugdha-bhavsar-9609ab299",
-    github: "https://github.com/mugdha",
-    img:"https://res.cloudinary.com/dunstvosl/image/upload/c_fill,w_800,h_700,g_faces/v1757869999/IMG-20250914-WA0014_1_qgwe3w.jpg"
+    email: "ieee.umit.riya@gmail.com",
+    linkedin: "https://www.linkedin.com/in/riya-k-7757a9290",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790513286/WhatsApp_Image_2026-08-17_at_20.36.18_1.png"
+  },
+  {
+    name: "Riddhi Shende",
+    role: "Events & Planning Director",
+    email: "shenderiddhi.c@gmail.com",
+    linkedin: "https://www.linkedin.com/in/riddhi-shende-54089a32a",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790516834/IMG-20260904-WA0025.jpg"
+  },
+  {
+    name: "Chanda Jha",
+    role: "Events & Planning Director",
+    email: "jhachanda9939@gmail.com",
+    img: "https://res.cloudinary.com/wg2rax47/image/upload/c_crop,g_north_west,h_1427,w_1096,x_788,y_1748/f_auto/q_auto/IMG-20260927-WA0021_2.jpg"
+  },
+  {
+    name: "Lavanya Suvarna",
+    role: "Creative & Social Media Director",
+    email: "lavanyasuvarna.ieeeumit@gmail.com",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790517000/IMG-20260919-WA0022.jpg"
+  },
+  {
+    name: "Surabhi Sawant",
+    role: "Creative & Social Media Director",
+    email: "surabhisawant.ieeeumit@gmail.com",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790516351/IMG-20260919-WA0029.jpg"
+  },
+  {
+    name: "Srushti Deshpande",
+    role: "Sponsorship & Marketing Director",
+    email: "srushtiumit28@gmail.com",
+    linkedin: "https://www.linkedin.com/in/srushti-deshpande-34962332a",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790515819/image_25_1.png"
+  },
+  {
+    name: "Riddhi Vartak",
+    role: "Sponsorship & Marketing Director",
+    email: "riddhivartak6@gmail.com",
+    linkedin: "https://www.linkedin.com/in/riddhi-vartak-4355a7380",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790513599/IMG-20260904-WA0023.jpg"
+  },
+  {
+    name: "Hritika Chavan",
+    role: "Technology & Publicity Director",
+    email: "hritika.umit@gmail.com",
+    linkedin: "https://www.linkedin.com/in/hritika-chavan-68865932b",
+    github: "https://github.com/Hritika7",
+    img: "https://res.cloudinary.com/wg2rax47/image/upload/c_auto,g_north_west,h_1427,w_1096/f_auto/q_auto/WhatsApp_Image_2026-09-28_at_1.22.20_PM.jpg"
+  },
+  {
+    name: "Riya Keswani",
+    role: "Technology & Publicity Director",
+    email: "riyakeswani473@gmail.com",
+    linkedin: "https://www.linkedin.com/in/riya-keswani-0b8b66310",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790517114/IMG-20260919-WA0025.jpg"
+  },
+  {
+    name: "Shreya Tripathi",
+    role: "Public Relations Director",
+    email: "tripathishreya0207@gmail.com",
+    linkedin: "https://www.linkedin.com/in/shreya-tripathi-sndt/",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790513883/IMG-20260919-WA0009.jpg"
+  },
+  {
+    name: "Prapti Chaware",
+    role: "Editorial & Community Director",
+    email: "praptichaware4@gmail.com",
+    img: "https://res.cloudinary.com/ktpdbtpf/image/upload/v1790513833/IMG-20260919-WA0026.jpg"
   },
 ];
 
 // ================= (JC) =================
 const juniorCouncil = [
-  { name: "Hritika Chavan", role: "Technical & Publicity" },
-  { name: "Chanda Jha", role: "Technical & Publicity" },
-  { name: "Riya Sewatkar", role: "Technical & Publicity" },
-   { name: "Shreya Tripathi", role: "Technical & Publicity" },
+  { name: "Sumera Feroz", role: "Technical" },
+  { name: "Tanushka Ahirrao", role: "Technical" },
+  { name: "Anuja Pisal", role: "Technical" },
 
-  { name: "Riddhi Vartak", role: "Events & Planning" },
-  { name: "Tripti Sinha", role: "Events & Planning" },
-  { name: "Riddhi Shende", role: "Events & Planning" },
-  
-  { name: "Sharvee Churi", role: "Art & Culture" },
-  { name: "Srushti Yeltiwar", role: "Art & Culture" },
+  { name: "Mayuri Sonwane", role: "Events & Planning" },
+  { name: "Vaishavi Pitty", role: "Events & Planning" },
+  { name: "Srushti Dangre", role: "Events & Planning" },
+  { name: "Shreya Khairnar", role: "Events & Planning" },
 
-  { name: "Neettasha Wankhade", role: "Social Media" },
-  { name: "Khushi Taneja", role: "Social Media" },
-  { name: "Surabhi Sawant", role: "Social Media" },
+  { name: "Kalpita Naik", role: "Social Media & Art and Culture" },
+  { name: "Samiksha Nandanwar", role: "Social Media & Art and Culture" },
+  { name: "Nirmiti Chiddarwar", role: "Social Media & Art and Culture" },
+  { name: "Kashvi Semwal", role: "Social Media & Art and Culture" },
 
-  { name: "Riya Dwivedi", role: "Sponsorships" },
-  { name: "Kanishka Gaikwad", role: "Sponsorships" },
-  { name: "Aditi Pawar", role: "Sponsorships" },
-  { name: "Samruddhi Badjate", role: "Sponsorships" },
+  { name: "Anushka Gole", role: "Sponsorships" },
+  { name: "Harshada Dongare", role: "Sponsorships" },
+  { name: "Shruti Bagadi", role: "Sponsorships" },
+  { name: "Tanvi Hegde", role: "Sponsorships" },
 
-  { name: "Maithili Yadav", role: "Editorial" },
-  { name: "Pooja Zore", role: "Editorial" },
-  
-  { name: "Sabrin Rowther", role: "External Affairs" },
-  { name: "Anika Kabra", role: "External Affairs" },
-  { name: "Srushti Deshpande", role: "External Affairs" },
+  { name: "Pallavi Chavare", role: "Editorial" },
+  { name: "Shranika Medewar", role: "Editorial" },
+
+  { name: "Ananya Tare", role: "External Affairs" },
+  { name: "Shrilekha Sarnaik", role: "External Affairs" },
+  { name: "Priyakriti Jha", role: "External Affairs" },
+
+  { name: "Minakshi Jha", role: "Public Relations" },
+  { name: "Dnyaneshwari Bankar", role: "Public Relations" },
 ];
 
 const faculty = {
